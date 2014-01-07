@@ -21,6 +21,7 @@
 		84C68D84187C58680041F89A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84C68D66187C58670041F89A /* UIKit.framework */; };
 		84C68D8C187C58680041F89A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 84C68D8A187C58680041F89A /* InfoPlist.strings */; };
 		84C68D8E187C58680041F89A /* _31pTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 84C68D8D187C58680041F89A /* _31pTests.m */; };
+		84C68D98187C58E10041F89A /* steve_jobs_apple_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 84C68D97187C58E10041F89A /* steve_jobs_apple_logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		84C68D89187C58680041F89A /* 231pTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "231pTests-Info.plist"; sourceTree = "<group>"; };
 		84C68D8B187C58680041F89A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		84C68D8D187C58680041F89A /* _31pTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = _31pTests.m; sourceTree = "<group>"; };
+		84C68D97187C58E10041F89A /* steve_jobs_apple_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = steve_jobs_apple_logo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		84C68D69187C58670041F89A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				84C68D97187C58E10041F89A /* steve_jobs_apple_logo.png */,
 				84C68D6A187C58670041F89A /* 231p-Info.plist */,
 				84C68D6B187C58670041F89A /* InfoPlist.strings */,
 				84C68D6E187C58670041F89A /* main.m */,
@@ -229,6 +232,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				84C68D7B187C58670041F89A /* Images.xcassets in Resources */,
+				84C68D98187C58E10041F89A /* steve_jobs_apple_logo.png in Resources */,
 				84C68D6D187C58670041F89A /* InfoPlist.strings in Resources */,
 				84C68D76187C58670041F89A /* Main.storyboard in Resources */,
 			);
